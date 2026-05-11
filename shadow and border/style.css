@@ -1,0 +1,29 @@
+span{
+    text-shadow:3px,6px,7px,rgb(36, 7, 226);
+    border-radius: 5px;
+    border: solid rgb(10, 236, 10);
+   
+}
+p{
+    border-radius: 5px;
+    border: solid #2705e5
+}
+
+#address{
+    text-shadow:24px -8px 4px rgb(189, 172, 184);
+}
+
+#box{
+    
+    height: 240px;
+    width: 330px;
+    border-radius: 23px;
+    border: #1b0695;
+    border-style: dashed;
+    box-shadow: 3px 7px 4px rgb(225, 211, 9);
+}
+#chitwan{
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

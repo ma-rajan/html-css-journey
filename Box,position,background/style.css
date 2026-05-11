@@ -1,0 +1,39 @@
+.first{
+    height: 135px;
+    border: 2px solid rgb(9, 2, 21);
+    overflow: auto;
+}
+.first1{
+    width: 100px;
+    border: 2px solid black;
+    height: 50px;
+    background-color: brown;
+    box-shadow: 13px 12px 25px solid rgb(27, 242, 41);
+    position:relative;
+    top: 10px;
+    left: 120px;
+    padding-top: 20px;
+    text-align: center;
+    color: bisque;
+}
+.second1{
+    width: 120px;
+    border: 2px solid black;
+    height: 50px;
+    background-color: rgb(186, 211, 22);
+    position: relative;
+    left: 110px;
+    top: 20px;
+     padding-top: 20px;
+    text-align: center;
+    color: beige;
+}
+
+*{
+    background-image: url(image/nasa-Q1p7bh3SHj8-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size:cover;
+    color: aliceblue;
+}

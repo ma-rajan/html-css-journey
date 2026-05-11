@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(42, 42, 42);
+}
+#first{
+    color: rgb(255, 234, 79);
+}
+#second{
+    color: rgb(255, 115, 145);
+}
+#third{
+    color:rgb(249, 46, 20);
+}
+#forth{
+    color: rgb(34, 250, 95);
+}
+
+.headall{
+    background-color: rgb(100, 99, 97);
+    color: rgb(14, 211, 11);
+}
