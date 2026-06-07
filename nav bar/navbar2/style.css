@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+
+
+    justify-content: space-between;
+    gap:20px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(242, 240, 239);
+    
+    
+}
+.navbar a{
+    text-decoration: none;
+    color: rgb(108, 104, 104);
+}
+.navbar a:hover{
+    color: black;
+}
+.navbar img{
+    width: 20px;
+}
+.navbar .first{
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
+}
+.second{
+    display: flex;
+    justify-content: space-around;
+    gap: 25px;
+}
+
+.signin{
+    display: flex;
+
+}
+.signin button{
+
+    font-size: 16px;
+    color: rgb(113, 113, 108);
+    cursor: pointer;
+}
+.signin button:hover{
+   color: black;
+
+}
+
+
+
